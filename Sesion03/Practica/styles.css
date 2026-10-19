@@ -1,0 +1,46 @@
+
+body{
+    font-family: "Playwrite CA Guides", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+hr{
+    background-color: darkorange;
+    height: 15px;
+    width: 50%;
+    border-style: double;
+}
+
+h1{
+    color: tomato;
+    font-size: 20px;
+}
+
+/* Cuando sea una class usa el . */
+.destacado{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 30px;
+    background-color: red;
+}
+
+/* Cuando sea un id se usa el # */
+#estudio{
+    background-color: aquamarine;
+    color: green;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+nav a{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: rgb(27, 34, 169);
+}
+
+h2, h3, h4{
+    color: tomato;
+}
+
+
+
